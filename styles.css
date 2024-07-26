@@ -1,0 +1,69 @@
+.great-vibes-regular{
+    font-family: "Great Vibes", cursive;
+    font-style: normal;
+    font-size: 40px;
+}
+body{
+    width: 50%;
+    color: white;
+    border: 1px solid white;
+    margin: auto;
+    line-height: 0.8;
+    background-image: url('background.jpg');
+}
+.styling1{
+    text-align: center;
+}
+.fontsize1{
+    font-size: 15px;
+}
+.fontsize2{
+    font-size: 13px;
+}
+.fontsize3{
+    font-size: 11px;
+}
+.fontsize4{
+    font-size: 9px;
+}
+.tablerow1{
+    width: 5%;
+}
+.tablerow2{
+    width: 40%;
+}
+.tablerow3{
+    width: 20%;
+}
+.tablerow4{
+    width: 80%;
+}
+.tablerow5{
+    width: 1%;
+}
+.tablerow6{
+    width:18%;
+}
+.fontbold{
+    font-weight: bold;
+}
+fieldset{
+    border:1px solid transparent;
+    border-top-color:black;
+}
+legend{
+    font-size: small;
+    margin: auto;
+}
+.one{
+    background-color:rgba(255, 99, 71, 0.212);
+    transform: skewY(-1deg);
+}
+.two{
+    background-color: rgba(255, 127, 80, 0.055);
+    transform: skewY(-1deg);
+}
+
+.stable{
+    transform: skewY(+1deg);
+}
